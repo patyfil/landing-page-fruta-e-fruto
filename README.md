@@ -8,6 +8,8 @@ Ver como instalar o Bootstrap 4 e usar os seus recursos em um site.
 
 URL do curso -> [Bootstrap 4: Criando uma Landing Page Responsiva](https://cursos.alura.com.br/course/bootstrap-landing-page)
 
+## [deploy da projeto](https://patyfil.github.io/landing-page-fruta-e-fruto/)
+
 ![Bootstrap 4: Criando uma Landing Page Responsiva](https://www.alura.com.br/assets/api/share/curso-bootstrap-landing-page.png)
 
 ## Links Úteis &#x1F517;
